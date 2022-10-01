@@ -238,4 +238,12 @@ for num in tuplaP:
     if resP ==0:
         listaP.append(num)
 print(resP)
- 
+
+lista1=[] 
+tupla1=(50,45,20,30,40,87,40)
+for num in tupla:
+    res=num
+    if res >= 40:
+        lista.append(res)
+print(lista1)
+
